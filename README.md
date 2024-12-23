@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ben, and I'm a 2nd year PhD student at the University of Warwick in the (Astronomy and Astophysics group)[https://warwick.ac.uk/fac/sci/physics/research/astro/].
+My name is Ben, and I'm a 2nd year PhD student at the University of Warwick in the [Astronomy and Astophysics group](https://warwick.ac.uk/fac/sci/physics/research/astro/).
 
 I am currently working on detecting (circumbinary planets)[https://en.wikipedia.org/wiki/Circumbinary_planet] via the (transit method)[https://en.wikipedia.org/wiki/Astronomical_transit], using data from NASA's (TESS)[https://heasarc.gsfc.nasa.gov/docs/tess/]. This involves a lot of data processing and analysis, which means I write a lot of code! (mostly in Python)
 
