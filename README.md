@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ben, and I'm a 2nd year PhD student at the University of Warwick in the [Astronomy and Astophysics group](https://warwick.ac.uk/fac/sci/physics/research/astro/).
+My name is Ben, and I'm a 3rd year PhD student at the University of Warwick in the [Astronomy and Astophysics group](https://warwick.ac.uk/fac/sci/physics/research/astro/). You can find my personal pager [here](https://warwick.ac.uk/fac/sci/physics/research/astro/people/bendavies/).
 
-I am currently working on detecting [circumbinary planets](https://en.wikipedia.org/wiki/Circumbinary_planet) via the [transit method](https://en.wikipedia.org/wiki/Astronomical_transit), using data from NASA's [TESS](https://heasarc.gsfc.nasa.gov/docs/tess/). This involves a lot of data processing and analysis, which means I write a lot of code! (mostly in Python)
+For my PhD, I work on detecting [circumbinary planets](https://en.wikipedia.org/wiki/Circumbinary_planet) via the [transit method](https://en.wikipedia.org/wiki/Astronomical_transit), using data from NASA's [TESS](https://heasarc.gsfc.nasa.gov/docs/tess/). This involves a lot of data processing and analysis, which means I write a lot of code (mostly in Python).
+
+I created the [mono-cbp](https://github.com/bdrdavies/mono-cbp) Python package, which is a tool for searching for and vetting individual transit events in light curves of eclipsing binaries. I have used this code to search for transiting circumbinary planets from the [TESS eclipsing binary catalogue](https://tessebs.villanova.edu/) (Davies et al. (2026), in review), finding a candidate circumbinary planet!
